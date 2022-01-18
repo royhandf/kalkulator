@@ -1,2 +1,2 @@
 # kalkulator-java
-Repository untuk project kalkulator menggunakan java
+Repository untuk project kalkulator sederhana menggunakan bahasa java
